@@ -1,0 +1,1 @@
+linear-gradient(90deg,rgb(12, 80, 92)0%, rgb(7, 46, 54)100%);
